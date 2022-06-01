@@ -1,0 +1,5 @@
+Hello world this is some test text for this app!
+hey this is an another text example for the typing test.
+This is another test block of text for this project!
+Okay this is just another test to make sure the app is working okay!
+The quick brown fox jumped over the rest of the sentence that I forget.
